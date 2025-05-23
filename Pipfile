@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pymongo = "*"
+bson = "*"
+scramble-models = {git = "ssh://git@github.com/JWehder/scramble-models.git"}
+selenium = "*"
+requests = "*"
+gspread = "*"
+dotenv = "*"
+pydantic = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
