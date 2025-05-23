@@ -3,10 +3,10 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "your-scripts-package"
+name = "scramble_scripts"
 version = "0.1.0"
 description = "Reusable scripts for the fantasy app"
-authors = [{ name="Your Name", email="you@example.com" }]
+authors = [{ name="Jake Wehder", email="jake.wehder@gmail.com" }]
 dependencies = [
     "pymongo",
     "bson",
