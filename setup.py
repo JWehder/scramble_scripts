@@ -10,7 +10,7 @@ setup(
         "pymongo",
         "pydantic",
         "bson",
-        "scramble-models @ git+ssh://git@github.com/JWehder/scramble-models.git",
+        "scramble-models @ git+ssh://git@github.com/JWehder/scramble_models.git",
         "selenium",
         "requests",
         "gspread",
